@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Watchlist</string>
+    <string name="don_t_have_an_account_register"><b><u>Don\'t have an account? Register</u></b></string>
+    <string name="already_have_an_account_login"><b><u>Already have an account? Login</u></b></string>
+    <string name="start_image">start_image</string>
+    <string name="my_watchlist">My WatchList</string>
+    <string name="kanna_icon">kanna_icon</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>

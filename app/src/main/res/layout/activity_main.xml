@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FDEBF7"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="422dp"
+        android:layout_marginTop="100dp"
+        app:srcCompat="@drawable/tohru_kanna"
+        android:contentDescription="@string/start_image" />
+
+    <TextView
+        android:id="@+id/tvMw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/my_watchlist"
+        android:textColor="#FC28FB"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        tools:ignore="TextContrastCheck" />
+</LinearLayout>
