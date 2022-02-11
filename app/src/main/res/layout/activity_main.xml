@@ -20,10 +20,11 @@
         android:id="@+id/tvMw"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/berkshire_swash"
         android:gravity="center_horizontal"
         android:text="@string/my_watchlist"
         android:textColor="#FC28FB"
-        android:textSize="34sp"
+        android:textSize="48sp"
         android:textStyle="bold"
         tools:ignore="TextContrastCheck" />
 </LinearLayout>
